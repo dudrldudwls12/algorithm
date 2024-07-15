@@ -7,6 +7,15 @@
       "RelativeMoniker": "D:0:0:{97EEAC2E-B10C-4902-A150-AC66A928FBD2}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D5791ADD-720C-45B1-A558-7CEC1201840D}|..\\Class5th (lnsert Sort)\\Class5th (lnsert Sort).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class5th (lnsert Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF2599A9-9474-40B3-AA31-EB03C7A33D53}|..\\Class4th (Select Sort)\\Class4th (Select Sort).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class4th (Select Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF21A822-05B0-48F9-8E99-25E8F5B0FDF6}|..\\Class3th (Bubble Sort)\\Class3th (Bubble Sort).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class3th (Bubble Sort)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97352BDC-9217-4765-9925-7A2D30C869DC}|..\\Class2th (Sieve of Eratosthenes)\\Class2th (Sieve of Eratosthenes).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class2th (Sieve of Eratosthenes)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -20,7 +29,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,18 +39,56 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class5th (lnsert Sort)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class5th (lnsert Sort)\\Source.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class5th (lnsert Sort)\\Source.cpp",
+              "RelativeToolTip": "..\\Class5th (lnsert Sort)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T10:41:47.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class4th (Select Sort)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class4th (Select Sort)\\Source.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class4th (Select Sort)\\Source.cpp",
+              "RelativeToolTip": "..\\Class4th (Select Sort)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T09:45:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class3th (Bubble Sort)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class3th (Bubble Sort)\\Source.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class3th (Bubble Sort)\\Source.cpp",
+              "RelativeToolTip": "..\\Class3th (Bubble Sort)\\Source.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-15T09:01:58.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class2th (Sieve of Eratosthenes)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class2th (Sieve of Eratosthenes)\\Source.cpp",
               "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class2th (Sieve of Eratosthenes)\\Source.cpp",
               "RelativeToolTip": "..\\Class2th (Sieve of Eratosthenes)\\Source.cpp",
               "ViewState": "AQIAACUAAAAAAAAAAAAqwDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-07-12T09:46:03.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T09:46:03.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\Class1th (Brute Force)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\..\\Class1th (Brute Force)\\Source.cpp",
@@ -59,7 +106,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-11T09:05:05.546Z",
               "EditorCaption": ""
