@@ -5,6 +5,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{97EEAC2E-B10C-4902-A150-AC66A928FBD2}|Program.vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{97EEAC2E-B10C-4902-A150-AC66A928FBD2}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5A14E37-4457-4A57-AFC3-968CD4E84B27}|..\\Class12th (Greedy)\\Class12th (Greedy).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class12th (Greedy)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22CEF145-F379-4E84-BBE9-55C396E62201}|..\\Class11th (Dynamic Programming)\\Class11th (Dynamic Programming).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class11th (Dynamic Programming)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +20,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class12th (Greedy)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class12th (Greedy)\\Source.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class12th (Greedy)\\Source.cpp",
+              "RelativeToolTip": "..\\Class12th (Greedy)\\Source.cpp",
+              "ViewState": "AQIAACgAAAAAAAAAAAAqwEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T10:22:00.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class11th (Dynamic Programming)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class11th (Dynamic Programming)\\Source.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class11th (Dynamic Programming)\\Source.cpp",
+              "RelativeToolTip": "..\\Class11th (Dynamic Programming)\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-22T09:18:53.168Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +60,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACAAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-11T09:05:05.546Z",
               "EditorCaption": ""
