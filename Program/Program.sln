@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class18th (Topology Sort)",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class19th (Union Find)", "..\Class19th (Union Find)\Class19th (Union Find).vcxproj", "{4D6F50EA-E324-45E4-AF64-7DBB53E58F13}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class20th (Minimum Sparning Tree)", "..\Class20th (Minimum Sparning Tree)\Class20th (Minimum Sparning Tree).vcxproj", "{84FA61F5-E85B-4A38-8A86-664145163111}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{4D6F50EA-E324-45E4-AF64-7DBB53E58F13}.Release|x64.Build.0 = Release|x64
 		{4D6F50EA-E324-45E4-AF64-7DBB53E58F13}.Release|x86.ActiveCfg = Release|Win32
 		{4D6F50EA-E324-45E4-AF64-7DBB53E58F13}.Release|x86.Build.0 = Release|Win32
+		{84FA61F5-E85B-4A38-8A86-664145163111}.Debug|x64.ActiveCfg = Debug|x64
+		{84FA61F5-E85B-4A38-8A86-664145163111}.Debug|x64.Build.0 = Debug|x64
+		{84FA61F5-E85B-4A38-8A86-664145163111}.Debug|x86.ActiveCfg = Debug|Win32
+		{84FA61F5-E85B-4A38-8A86-664145163111}.Debug|x86.Build.0 = Debug|Win32
+		{84FA61F5-E85B-4A38-8A86-664145163111}.Release|x64.ActiveCfg = Release|x64
+		{84FA61F5-E85B-4A38-8A86-664145163111}.Release|x64.Build.0 = Release|x64
+		{84FA61F5-E85B-4A38-8A86-664145163111}.Release|x86.ActiveCfg = Release|Win32
+		{84FA61F5-E85B-4A38-8A86-664145163111}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
