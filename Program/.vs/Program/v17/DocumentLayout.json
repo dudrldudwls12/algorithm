@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{97EEAC2E-B10C-4902-A150-AC66A928FBD2}|Program.vcxproj|solutionrelative:Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{194A568E-519A-4145-8828-247D79776743}|..\\Class22th (Dijkstra)\\Class22th (Dijkstra).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class22th (Dijkstra)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA3233AE-11DA-4B97-9228-FA55EB2AF28C}|..\\Class21th (Prefix Sum)\\Class21th (Prefix Sum).vcxproj|C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class21th (Prefix Sum)\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -38,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,18 +51,30 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class22th (Dijkstra)\\Source.cpp",
+              "RelativeDocumentMoniker": "..\\Class22th (Dijkstra)\\Source.cpp",
+              "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class22th (Dijkstra)\\Source.cpp",
+              "RelativeToolTip": "..\\Class22th (Dijkstra)\\Source.cpp",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAcwF8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-02T10:07:59.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class21th (Prefix Sum)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class21th (Prefix Sum)\\Source.cpp",
               "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class21th (Prefix Sum)\\Source.cpp",
               "RelativeToolTip": "..\\Class21th (Prefix Sum)\\Source.cpp",
               "ViewState": "AQIAAAYAAAAAAAAAAAAcwBoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-01T09:04:38.704Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-01T09:04:38.704Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class20th (Minimum Sparning Tree)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class20th (Minimum Sparning Tree)\\Source.cpp",
@@ -71,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class19th (Union Find)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class19th (Union Find)\\Source.cpp",
@@ -83,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class18th (Topology Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class18th (Topology Sort)\\Source.cpp",
@@ -95,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class17th (Breadth First Search)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class17th (Breadth First Search)\\Source.cpp",
@@ -107,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class13th (Shell Sort)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class13th (Shell Sort)\\Source.cpp",
@@ -119,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class12th (Greedy)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class12th (Greedy)\\Source.cpp",
@@ -131,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Source.cpp",
               "DocumentMoniker": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Class11th (Dynamic Programming)\\Source.cpp",
               "RelativeDocumentMoniker": "..\\Class11th (Dynamic Programming)\\Source.cpp",
@@ -149,7 +164,7 @@
               "RelativeDocumentMoniker": "Program.cpp",
               "ToolTip": "C:\\Users\\cacas\\OneDrive\\\uBB38\uC11C\\GitHub\\algorithm\\Program\\Program.cpp",
               "RelativeToolTip": "Program.cpp",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-11T09:05:05.546Z",
               "EditorCaption": ""
